@@ -14,3 +14,8 @@ Finally run this command
 ```bash
 go run .
 ```
+
+In discord you should call the bot using the given prefix followed by your prompt like so
+```
+prefix hello
+```
